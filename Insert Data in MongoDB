@@ -2,4 +2,3 @@
 -> use LearnDB
 -> db.createCollection('FirstColection');           //Collection name FirstColection
 -> db.FirstColection.insert({"Name" : "Juned Khan", "Age" : "22", "Address" : "Jaipur", "Course" : "B.Tech"});      //Insert data into collection
--> db.FirstColection.find().pretty(); 
