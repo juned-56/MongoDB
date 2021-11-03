@@ -1,0 +1,8 @@
+//Open your CMD and Type *mongod*
+//Again Open your CMD and Type *mongo*
+//Now your mongo server is start
+
+
+//*******************************************Create Collection************************************************************
+-> use LearnDB
+-> db.createCollection('FirstColection');           //Collection name FirstColection
