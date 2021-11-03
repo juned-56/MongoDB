@@ -1,0 +1,7 @@
+//*****************************************Show Collections*********************************************
+-> show collections;
+
+//****************************************Recall****************************************
+-> db.createCollection('Enter the Collection Name');
+Eg.:
+-> db.createCollection('NewCollection_Name');
